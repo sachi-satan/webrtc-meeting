@@ -38,6 +38,7 @@ module.exports = {
   ** Nuxt.js modules
   */
   modules: [
+    ['nuxt-material-design-icons']
   ],
   /*
   ** Build configuration
