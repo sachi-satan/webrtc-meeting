@@ -1,6 +1,6 @@
-# webrtc
+# frontend
 
-> My tremendous Nuxt.js project
+> webrtc-meeting frontend project
 
 ## Build Setup
 

@@ -1,7 +1,7 @@
 {
-  "name": "webrtc",
-  "version": "1.0.0",
-  "description": "My tremendous Nuxt.js project",
+  "name": "frontend",
+  "version": "0.9.0",
+  "description": "webrtc-meeting frontend project",
   "author": "",
   "private": true,
   "scripts": {
