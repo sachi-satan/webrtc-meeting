@@ -341,7 +341,7 @@ export default {
       let pc_config = {
         'iceServers': [
           { 'url': 'stun:stun.l.google.com:19302' },
-          { 'url': 'turn:turn.coogic.com:80', 'username': 'actor', 'credential': 'password' }]
+          { 'url': 'turn:34.146.227.154:80', 'username': 'actor', 'credential': 'password' }]
       }
       let peer = new RTCPeerConnection(pc_config)
       peer.ontrack = (event) => {
