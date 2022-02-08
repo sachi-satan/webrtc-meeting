@@ -1,28 +1,12 @@
-<!-- PROJECT LOGO -->
-<div align="center">
-  <h3 align="center">WebRTC Meeting</h3>
+# WebRTC Meeting
 
-  <p align="center">
-   A video calling web application using WebRTC.
-   <br />
-   <br />
-   <a href="https://meeting.coogic.com/">View Demo</a>
-  </p>
-</div>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-This project is an implementation example for creating a video calling application with WebRTC.
+This project is an example implementation for creating a video calling application with WebRTC. <a href="https://meeting.coogic.com/">View Demo</a>
 
 ### Built With
 
-- [Next.js](https://nextjs.org/)
+- [Nuxt.js](https://nuxtjs.org/)
 - [Socket.IO](https://socket.io/)
 - [coturn](https://github.com/coturn/coturn)
-
-<!-- GETTING STARTED -->
 
 ## Getting Started
 
@@ -35,7 +19,7 @@ To run the project you need:
 - Node.js (11.1.0 has been confirmed to work)
 - npm
 
-### Installation
+## Quick Start
 
 Run the project locally according to the following command.
 
@@ -55,8 +39,6 @@ Run the project locally according to the following command.
    ```sh
    npm run dev
    ```
-
-<!-- LICENSE -->
 
 ## License
 
