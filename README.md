@@ -1,6 +1,6 @@
 # WebRTC Meeting
 
-This project is an example implementation for creating a video calling application with WebRTC. <a href="https://meeting.coogic.com/">View Demo</a>
+This project is an example implementation for creating a video calling application with WebRTC.
 
 ### Built With
 
